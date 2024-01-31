@@ -1,4 +1,3 @@
-
 ---
 title: Next.js Ethereum Wallet Application
 ---
@@ -13,8 +12,6 @@ This is a Next.js application designed to interact with Ethereum wallets, focusi
 - [Launch](#launch)
 - [Features](#features)
 - [Technical Explanations](#technical-explanations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -23,7 +20,7 @@ Follow these steps to set up the project on your local machine:
 ### 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/next-eth-wallet.git
+git clone https://github.com/ahmedmannai10/next-eth-wallet.git
 ```
 
 ### 2. Navigate to the Project Directory:
@@ -54,7 +51,6 @@ npm run dev
 
 This will start the development server, and you can access the application at \`http://localhost:3000\`.
 
-
 ## Features
 
 ### Wallet Connection
@@ -83,4 +79,3 @@ This will start the development server, and you can access the application at \`
 - Send the ERC-20 token to another address.
 - Include fields for the recipient's address and the quantity of tokens to send.
 - Execute the transfer and view transaction status updates.
-
